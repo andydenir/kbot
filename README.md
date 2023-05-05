@@ -3,7 +3,7 @@
 Telegram bot
 Ссылка: https://t.me/andydenir_bot
 
-Алгоритм создания
+Алгоритм создания проекта
 
 Импорт библиотеки Cobra
 "github.com/spf13/cobra"
