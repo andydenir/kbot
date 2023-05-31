@@ -97,5 +97,9 @@ kbot v1.0.2 started2023/05/05 08:45:40 start hello
 2023/05/05 08:46:20 hello/start hello
 
 Делаем commit изменений кода и пушим в репозиторий github
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin
 
 
